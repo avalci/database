@@ -1,0 +1,3 @@
+[submodule "chinook"]
+	path = chinook
+	url = git@github.com:avalci/Postgres-sql-Chinook-fork.git
