@@ -13,3 +13,6 @@
 [submodule "mongodb-sample-databases-fork"]
 	path = mongodb-sample-databases-fork
 	url = git@github.com:avalci/mongodb-sample-databases-fork.git
+[submodule "northwind_psql"]
+	path = northwind_psql
+	url = git@github.com:pthom/northwind_psql.git
