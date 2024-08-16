@@ -7,3 +7,9 @@
 [submodule "db-samples-fork"]
 	path = db-samples-fork
 	url = git@github.com:avalci/db-samples-fork.git
+[submodule "sql-server-samples-fork"]
+	path = sql-server-samples-fork
+	url = git@github.com:avalci/sql-server-samples-fork.git
+[submodule "mongodb-sample-databases-fork"]
+	path = mongodb-sample-databases-fork
+	url = git@github.com:avalci/mongodb-sample-databases-fork.git
