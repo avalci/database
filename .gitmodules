@@ -4,3 +4,6 @@
 [submodule "estados-e-municipios-ibge"]
 	path = estados-e-municipios-ibge
 	url = git@github.com:avalci/estados-e-municipios-ibge-fork.git
+[submodule "db-samples-fork"]
+	path = db-samples-fork
+	url = git@github.com:avalci/db-samples-fork.git
