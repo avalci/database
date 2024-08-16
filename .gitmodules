@@ -1,3 +1,6 @@
 [submodule "chinook"]
 	path = chinook
 	url = git@github.com:avalci/Postgres-sql-Chinook-fork.git
+[submodule "estados-e-municipios-ibge"]
+	path = estados-e-municipios-ibge
+	url = git@github.com:avalci/estados-e-municipios-ibge-fork.git
